@@ -172,7 +172,7 @@ header .links ul li:not(:last-child) {
 /* Start Landing Section */
 
 .landing {
-  background-image: url(../Pic/__gawr_gura_ninomae_ina_nis_and_tako_hololive_and_1_more_drawn_by_anonamos__bb569359da5cba1063732c6d7d73e6cf.jpg);
+  background-image: url(../Pic/landing.jpg);
   background-size: cover;
   height: calc(100vh - 64px);
   position: relative;
